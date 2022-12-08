@@ -1,0 +1,50 @@
+h1{
+    /* color: chocolate; */
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: underline; */
+
+}
+ul{
+    list-style-type: none;
+}
+h3{
+    /* text-transform: capitalize; */
+    text-transform: uppercase;
+}
+h2{
+    text-transform: lowercase;
+}
+div{
+    background-color: coral;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+div h1{
+    word-spacing: 10px;
+}
+div p{
+    font-size: medium;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+.title{
+    color: chocolate;
+}
+h4{
+    color: crimson;
+}
+.block{
+    background-color: beige;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+
+}
+.group{
+    background-color: bisque;
+    text-align: center;
+    width: 500px;
+    height: 250px;
+}
